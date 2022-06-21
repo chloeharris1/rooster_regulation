@@ -1,0 +1,22 @@
+{
+    "name": "rooster_regulation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chloeharris1/rooster_regulation.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chloeharris1/rooster_regulation/issues"
+    },
+    "homepage": "https://github.com/chloeharris1/rooster_regulation#readme",
+    "devDependencies": {
+        "mocha": "^10.0.0"
+    }
+}
